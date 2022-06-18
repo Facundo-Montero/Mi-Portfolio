@@ -1,0 +1,55 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.logo-pagina{
+    width: 70px;
+}
+
+li{
+    margin-left: 20px;
+    color: #7510F7;
+    display: inline-block;
+}
+
+.btn{
+    font-size: 18px;
+}
+
+.titulo{
+    margin-top: 100px;
+}
+
+.subtitulo{
+    margin-top: 0px;
+}
+.subtitulo-texto{
+    font-size: 20px;
+}
+
+.foto-perfil{
+    width: 300px;
+    margin-top: 40px;
+}
+
+.seccion-about{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: #7510F7;
+    color: white;
+}
+
+.text-about{
+    font-size: 19px;
+    line-height: 1.5;
+}
+
+.iconos{
+    width: 150px;
+}
+
+footer{
+    margin-top: 25px;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
