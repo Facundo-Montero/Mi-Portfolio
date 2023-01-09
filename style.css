@@ -6,7 +6,11 @@ body{
     width: 70px;
 }
 
-li{
+.imagen-cpu{
+    width: 100%;
+}
+
+.nav-li{
     color: #7510F7;
     display: inline-block;
 }
@@ -45,6 +49,23 @@ li{
 
 .iconos{
     width: 150px;
+}
+
+.logos-exp{
+    display: flex;
+    justify-content: center;
+}
+
+.experiencias{
+    margin-top: 10%;
+}
+
+.iconos-contacto{
+    width: 50px;
+}
+
+.img-exp{
+    width: 100%;
 }
 
 footer{
