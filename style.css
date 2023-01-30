@@ -53,6 +53,10 @@ body{
     justify-content: center;
 }
 
+.imagen-logos-exp{
+    width: 200px;
+}
+
 .experiencias{
     margin-top: 10%;
 }
